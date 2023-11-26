@@ -1,0 +1,25 @@
+// TASK 05
+// DAYE - 26/11/2023
+//02) create own resume in json fromat ..............................
+
+{
+  "name": "Prakash V S",
+  "mail": "prakashvs.official@gmail.com",
+  "mob": "9884479924",
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "MySQL", "Figma"],
+  "address": "Tambaram, Chennai",
+  "education": [
+    {
+      "level": "UG",
+      "degree": "MCS",
+      "institution": "SRM Institute of Science and Technology, Ramapuram",
+      "cgpa": 9.3
+    },
+    {
+      "level": "PG",
+      "degree": "MCS",
+      "institution": "SRM Institute of Science and Technology, Ramapuram",
+      "cgpa": 8.3
+    }
+  ]
+}
